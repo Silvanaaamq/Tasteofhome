@@ -10,16 +10,17 @@
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
-    "gulp-clean-css": "^4.0.0",
-    "gulp-sass": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^5.0.3",
     "gulp-rename": "^1.4.0",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
     "imagemin-jpeg-recompress": "^6.0.0",
-    "imagemin-pngquant": "^7.0.0"
+    "imagemin-pngquant": "^7.0.0",
+    "sass": "^1.91.0"
   },
   "browserslist": [
     "> 1%",
